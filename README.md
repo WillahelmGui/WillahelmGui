@@ -6,6 +6,10 @@
 #
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillahelmGui&theme=transparent&show_icons=true)
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillahelmGui&theme=transparent&")](https://github.com/anuraghazra/github-readme-stats)
+
+
+#
 ### Linguagens que uso no dia-a-dia:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 #
