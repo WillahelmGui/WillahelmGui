@@ -4,7 +4,7 @@
 ### Minhas redes para contato.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-ribeiro-da-costa-975b7b225?trk)
 #
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillahelmGui&theme=transparentt&show_icons=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillahelmGui&theme=transparent&show_icons=true)
 #
 ### Linguagens que uso no dia-a-dia:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
