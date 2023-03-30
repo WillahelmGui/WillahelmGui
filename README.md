@@ -1,5 +1,5 @@
 ### Olá, eu sou o Guilherme Ribeiro.
-### Estudo programação e busco melhorar cada dia mais, e no futuro trabalhar com isso!
+### Um pouco sobre mim: Tenho 17 anos(2023) e moro em São Paulo. Conheci a programação através da Gerando Falcões em seu curso com parceria da Oracle. Desde então me tornei uma pessoa apaixonada por programação e tecnologia, e pretendo trabalhar com isso e levar para a vida! #Vaikida 🚀 
 #
 ### Minhas redes para contato.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-ribeiro-da-costa-975b7b225?trk)
@@ -24,3 +24,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 #
+Agradeço a minha mãe, Dulci, meu professor William Noronha, minha mentora Marilia M. Soares e todos que acreditaram e acreditam em mim, sem essas pessoas eu não seria nada.
