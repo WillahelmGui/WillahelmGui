@@ -1,27 +1,29 @@
-### Olá, eu sou o Guilherme Ribeiro.
-### Um pouco sobre mim: Tenho 17 anos(2023) e moro em São Paulo. Conheci a programação através da Gerando Falcões em seu curso com parceria da Oracle. Desde então me tornei uma pessoa apaixonada por programação e tecnologia, e pretendo trabalhar com isso e levar para a vida! #Vaikida 🚀 
-#
-### Minhas redes para contato.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-ribeiro-da-costa-975b7b225?trk)
-#
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillahelmGui&theme=transparent&show_icons=true)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillahelmGui&theme=transparent&")](https://github.com/anuraghazra/github-readme-stats)
+<h1 align=center>Olá, eu sou o Guilherme Ribeiro.</h1>
+<h3 align=center>About me:</h3>
+<p align=center>I'm 17 years old and I live in São Paulo, Brasil. Studying Java progamming through FIAP and Tokio Marine, I also Study Java through Oracle and Gerando Falcões course.</p>
+<div align="center">
+  <a href="https://github.com/WillahelmGui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillahelmGui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillahelmGui&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<h3 align="left">Languages:</h3>
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+
+<h3 align="left">Tools:</h3>
+<a href=""> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="40"> </a>
+<a href="https://www.eclipse.org/org/foundation/"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="EclipseIDE" height=40> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
-#
-### Linguagens que uso no dia-a-dia:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-#
-### Linguagens que sou conhecedor:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-#
-### Ferramentas que utilizo:
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-#
-Agradeço a minha mãe, Dulci, meu professor William Noronha, minha mentora Marilia M. Soares e todos que acreditaram e acreditam em mim, sem essas pessoas eu não seria nada.
+
+
+<h3 align=left>Contact me:</h3>  
+<a href="https://br.linkedin.com/in/guilherme-ribeiro-da-costa-975b7b225?trk=people-guest_people_search-card">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a>
+
+<h3>Agradecimentos:</h3>
+<p>Agradeço a minha mãe, Dulci, meu professor William Noronha, minha mentora Marilia M. Soares e todos que acreditaram e acreditam em mim, sem essas pessoas eu não seria nada.</p>
