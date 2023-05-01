@@ -3,8 +3,8 @@
 <p align=center>I'm 17 years old and I live in São Paulo, Brasil. Studying Java progamming through FIAP and Tokio Marine, I also Study Java through Oracle and Gerando Falcões course.</p>
 <div align="center">
   <a href="https://github.com/WillahelmGui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillahelmGui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillahelmGui&layout=compact&langs_count=7&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillahelmGui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 <h3 align="left">Languages:</h3>
 
