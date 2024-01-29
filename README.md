@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/WillahelmGui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillahelmGui&layout=compact&langs_count=7&theme=github_dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillahelmGui&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true"/>
+ 
 </div>
 <h3 align="left">Languages:</h3>
 
