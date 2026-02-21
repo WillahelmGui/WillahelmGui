@@ -1,11 +1,7 @@
 <h1 align=center>Olá, eu sou o Guilherme Ribeiro.</h1>
 <h3 align=center>About me:</h3>
 <p align=center>I'm 20 years old and I live in São Paulo, Brasil. Studying Java progamming through FIAP and Tokio Marine, I also Study Java through Oracle and Gerando Falcões course.</p>
-<div align="center">
-  <a href="https://github.com/WillahelmGui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillahelmGui&layout=compact&langs_count=7&theme=github_dark"/>
- 
-</div>
+
 <h3 align="left">Languages and Frameworks:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
